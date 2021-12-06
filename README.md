@@ -1,6 +1,11 @@
 ### Hola a todos.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zl1te)](https://github.com/zl1te/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zl1te&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zl1te&repo=zl1te.github.io&theme=buefy" />
+</a>
 
                 
 
