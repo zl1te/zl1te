@@ -1,6 +1,7 @@
 ### Hola a todos.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zl1te)](https://github.com/zl1te/github-readme-stats)
+
                 
 
 
