@@ -1,7 +1,7 @@
 ### - Hola a todos.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### - Soy l1te, Programador y Pentester, me guio en el pentesting web, Red Team.
 
-### - Lenguajes que estoy aprendiendo: <img src="https://lh3.googleusercontent.com/proxy/eK_OyHe_p0nbYjwSgG9khudvES-JuOLh-amCpDzY_4Ij9U1HwVrD3W5_bMgip35yqdRc2Lyqj3FKXeS_FahSd8zhtPwPH--8R4Gi6EogESfRsIEG3Pp31qjO9l5ADA" width="55px"> <img src="https://www.solucionex.com/sites/default/files/posts/imagen/logo-2582747_640.png" width="55px"> 
+### - Lenguajes que estoy aprendiendo: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="55px"> <img src="https://www.solucionex.com/sites/default/files/posts/imagen/logo-2582747_640.png" width="55px"> 
 
 
 
