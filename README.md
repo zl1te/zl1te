@@ -1,7 +1,7 @@
 ### Hola a todos.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-[![zl1te GitHub stats](https://github-readme-stats.vercel.app/api?username=zl1te)]
+![zl1te GitHub stats](https://github-readme-stats.vercel.app/api?username=zl1te)
 
 
 
